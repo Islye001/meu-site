@@ -1,0 +1,28 @@
+body {
+    background-color: rgba(224, 255, 255, 0.925);
+    font-size: medium;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+h3 {
+    color: rgba(0, 0, 255, 0.733);
+}
+.frasedeimpacto {
+    color: blueviolet;
+}
+
+#frasedeimpacto2 {
+    color: darkviolet;
+}
+h1 {
+    color: black;
+}
+
+#frasesprofundas1 {
+    color: blueviolet;
+}
+#frasesprofundas2 {
+    color:darkviolet ;
+}
+}
+
+
